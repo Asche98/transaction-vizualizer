@@ -5,6 +5,7 @@ import data from './data.json';
 import transactionTable from "./components/transactionTable";
 import projectsTable from "./components/projectsTable";
 import paymentRating from "./components/paymentRating";
+import bars from "./components/bars"
 
 class App extends React.Component{
     render()  {
